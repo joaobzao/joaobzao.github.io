@@ -1,0 +1,47 @@
+{
+  "restaurants": [
+    {
+      "entry": 1,
+      "date": "2024-01-01",
+      "name": "Francesinha Café",
+      "description": "Best francesinha 🌍!",
+      "city": "Porto",
+      "country": "Portugal",
+      "link": "https://g.co/kgs/pgMPBHT",
+      "cuisine": "Northen Portuguese",
+      "image_url": "https://images.culinarybackstreets.com/wp-content/uploads/cb_porto_francesinhacafe_rc_top.jpg",
+      "menu": [
+        "Francesinha",
+        "Prego"
+      ]
+    },
+    {
+      "entry": 2,
+      "date": "2024-01-08",
+      "name": "Restaurant B",
+      "description": "Modern fusion cuisine in a vibrant setting.",
+      "location": "456 Oak St, Townsville",
+      "cuisine": "Asian Fusion",
+      "image_url": "https://example.com/restaurant_b_image.jpg",
+      "menu": [
+        "Sushi Burrito",
+        "Korean BBQ Tacos",
+        "Matcha Cheesecake"
+      ]
+    },
+    {
+      "entry": 3,
+      "date": "2024-01-15",
+      "name": "Restaurant C",
+      "description": "Classic American diner experience.",
+      "location": "789 Elm St, Villagetown",
+      "cuisine": "American",
+      "image_url": "https://example.com/restaurant_c_image.jpg",
+      "menu": [
+        "Bacon Cheeseburger",
+        "Chicken and Waffles",
+        "Apple Pie"
+      ]
+    }
+  ]
+}
