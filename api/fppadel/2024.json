@@ -1,0 +1,50 @@
+{
+    "competitions": [
+      {
+        "entry": 1,
+        "name": "Carslberg Padel Cup 2024",
+        "start_date": "2024-02-15",
+        "end_date": "2024-02-18",
+        "type": "CIR",
+        "division": "ABS",
+        "categories": "F1 a F6; M1 a M6; Mx1 a Mx5",
+        "class": "5.000",
+        "prize_money": "5.000€",
+        "location": "Porto",
+        "partner": "Top-padel Quinta do Fojo, Fluvial e Maia Center",
+        "link": "https://g.co/kgs/pgMPBHT",
+        "organization": "Top-padel Industrial"
+      },
+      {
+        "entry": 2,
+        "name": "Carslberg Padel Cup 2024",
+        "start_date": "2024-02-15",
+        "end_date": "2024-02-18",
+        "type": "CIR",
+        "division": "ABS",
+        "categories": "F1 a F6; M1 a M6; Mx1 a Mx5",
+        "class": "5.000",
+        "prize_money": "5.000€",
+        "location": "Porto",
+        "partner": "Top-padel Quinta do Fojo, Fluvial e Maia Center",
+        "link": "https://g.co/kgs/pgMPBHT",
+        "organization": "Top-padel Industrial"
+      },
+      {
+        "entry": 3,
+        "name": "Carslberg Padel Cup 2024",
+        "start_date": "2024-02-15",
+        "end_date": "2024-02-18",
+        "type": "CIR",
+        "division": "ABS",
+        "categories": "F1 a F6; M1 a M6; Mx1 a Mx5",
+        "class": "5.000",
+        "prize_money": "5.000€",
+        "location": "Porto",
+        "partner": "Top-padel Quinta do Fojo, Fluvial e Maia Center",
+        "link": "https://g.co/kgs/pgMPBHT",
+        "organization": "Top-padel Industrial"
+      }
+    ]
+  }
+  
