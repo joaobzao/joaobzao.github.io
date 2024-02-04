@@ -616,7 +616,7 @@
       },
       {
           "month": "ABRIL",
-          "days": 20,
+          "days": "20",
           "type": "FOR",
           "division": "TR",
           "name": "Fomação Contínua - Padel Juvenil Módulo 1",
@@ -1001,7 +1001,7 @@
       },
       {
           "month": "JUNHO",
-          "days": 8,
+          "days": "8",
           "type": "FOR",
           "division": "TR",
           "name": "Fomação Contínua - Padel Juvenil Módulo 2",
