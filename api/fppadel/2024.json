@@ -1532,7 +1532,7 @@
       },
       {
           "month": "SETEMBRO",
-          "days": 7,
+          "days": "7",
           "type": "FOR",
           "division": "TR",
           "name": "Fomação Contínua - Preparação Física no Padel",
