@@ -878,12 +878,6 @@
       },
       {
           "month": "MAIO",
-          "days": "10 a 12",
-          "name": "*podem haver provas de Jovens e Veteranos",
-          "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
-      },
-      {
-          "month": "MAIO",
           "days": "13 a 16",
           "type": "FOR",
           "division": "TR",
@@ -1598,12 +1592,6 @@
       },
       {
           "month": "SETEMBRO",
-          "days": "30/8 a 1",
-          "name": "*podem haver quaisquer provas",
-          "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
-      },
-      {
-          "month": "SETEMBRO",
           "days": "6 a 8",
           "type": "FOR",
           "division": "TR",
@@ -1770,12 +1758,6 @@
           "location": "Centro",
           "partner": "PPR",
           "organization": "FPP",
-          "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
-      },
-      {
-          "month": "SETEMBRO",
-          "days": "20 a 22",
-          "name": "* podem haver provas de Veteranos e de Jovens",
           "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
       },
       {
@@ -2003,12 +1985,6 @@
           "prizeMoney": "-",
           "location": "-",
           "organization": "FIP",
-          "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
-      },
-      {
-          "month": "NOVEMBRO",
-          "days": "1 a 3",
-          "name": "*Não se podem fazer provas Absolutos de Classe 10.000 ou superior",
           "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
       },
       {
