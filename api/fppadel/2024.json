@@ -33,12 +33,6 @@
       },
       {
           "month": "FEVEREIRO",
-          "days": "2 a 4",
-          "name": "1ª data disponível para torneios",
-          "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
-      },
-      {
-          "month": "FEVEREIRO",
           "days": "3",
           "type": "FOR",
           "division": "DIR",
