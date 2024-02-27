@@ -6,62 +6,68 @@
             "days": "20",
             "type": "FOR",
             "division": "DIR",
-            "name": "1ª Formação de Dirigentes",
+            "name": "1\u00aa Forma\u00e7\u00e3o de Dirigentes",
             "location": "Online",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 1
         },
         {
             "month": "JANEIRO",
             "days": "27",
             "type": "FOR",
             "division": "DIR",
-            "name": "2ª Formação de Dirigentes",
+            "name": "2\u00aa Forma\u00e7\u00e3o de Dirigentes",
             "location": "Online",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 2
         },
         {
             "month": "FEVEREIRO",
             "days": "2 a 4",
             "type": "FOR",
             "division": "TR",
-            "name": "1º Curso de Treinador Grau 1 - 1/2",
+            "name": "1\u00ba Curso de Treinador Grau 1 - 1/2",
             "category": "Componente Geral",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 3
         },
         {
             "month": "FEVEREIRO",
             "days": "3",
             "type": "FOR",
             "division": "DIR",
-            "name": "3ª Formação de Dirigentes",
+            "name": "3\u00aa Forma\u00e7\u00e3o de Dirigentes",
             "location": "Online",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 4
         },
         {
             "month": "FEVEREIRO",
             "days": "8 a 11",
             "type": "FOR",
             "division": "JA",
-            "name": "1º Curso de Juiz-Árbitro",
+            "name": "1\u00ba Curso de Juiz-\u00c1rbitro",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 5
         },
         {
             "month": "FEVEREIRO",
             "days": "9 a 11",
             "type": "FOR",
             "division": "TR",
-            "name": "1º Curso de Treinador Grau 1 - 2/2",
+            "name": "1\u00ba Curso de Treinador Grau 1 - 2/2",
             "category": "Componente Geral",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 6
         },
         {
             "month": "FEVEREIRO",
@@ -73,28 +79,31 @@
             "class": "5.000",
             "location": "Beja",
             "organization": "Beja Padel",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 7
         },
         {
             "month": "FEVEREIRO",
             "days": "10",
             "type": "FOR",
             "division": "DIR",
-            "name": "4ª Formação de Dirigentes",
+            "name": "4\u00aa Forma\u00e7\u00e3o de Dirigentes",
             "location": "Online",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 8
         },
         {
             "month": "FEVEREIRO",
             "days": "12 a 15",
             "type": "FOR",
             "division": "TR",
-            "name": "1º Curso de Treinador Grau 1",
-            "category": "Componente Específica",
+            "name": "1\u00ba Curso de Treinador Grau 1",
+            "category": "Componente Espec\u00edfica",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 9
         },
         {
             "month": "FEVEREIRO",
@@ -104,21 +113,23 @@
             "name": "Carslberg Padel Cup 2024",
             "category": "F1 a F6; M1 a M6; Mx1 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Porto",
             "partner": "Top-padel Quinta do Fojo, Fluvial e Maia Center",
             "organization": "Top-padel Industrial",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 10
         },
         {
             "month": "FEVEREIRO",
             "days": "17",
             "type": "FOR",
             "division": "TR",
-            "name": "Fomação Contínua - Planeamento da Época",
+            "name": "Foma\u00e7\u00e3o Cont\u00ednua - Planeamento da \u00c9poca",
             "location": "Online",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 11
         },
         {
             "month": "FEVEREIRO",
@@ -129,7 +140,8 @@
             "location": "A definir",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 12
         },
         {
             "month": "FEVEREIRO",
@@ -139,10 +151,11 @@
             "name": "CPC Padel Cup",
             "category": "F1 a F4; M1 a M5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Caldas da Rainha",
             "organization": "Clube Padel das Caldas",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 13
         },
         {
             "month": "FEVEREIRO",
@@ -152,10 +165,11 @@
             "name": "Open Aveiro Padel Veteranos",
             "category": "F: +35, +40, +45 e +50; M: +35, +40, +45, +50, +55 e +60",
             "class": "2.000",
-            "prizeMoney": "1.000€",
+            "prizeMoney": "1.000\u20ac",
             "location": "Aveiro",
             "organization": "Aveiro Padel Indoor",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 14
         },
         {
             "month": "FEVEREIRO",
@@ -167,21 +181,23 @@
             "class": "5.000",
             "location": "Aveiro",
             "organization": "Aveiro Padel Indoor",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 15
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "1 a 3",
             "type": "FOR",
             "division": "TR",
-            "name": "2º Curso de Treinador Grau 1 - 1/2",
+            "name": "2\u00ba Curso de Treinador Grau 1 - 1/2",
             "category": "Componente Geral",
             "location": "Funchal",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 16
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "1 a 3",
             "type": "EQU",
             "division": "ABS",
@@ -189,10 +205,11 @@
             "location": "A definir",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 17
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "1 a 3",
             "type": "CIR",
             "division": "JOV",
@@ -201,32 +218,35 @@
             "class": "5.000",
             "location": "Lisboa",
             "organization": "Lemonfit Olaias",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 18
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "8 a 10",
             "type": "FOR",
             "division": "TR",
-            "name": "2º Curso de Treinador Grau 1 - 2/2",
+            "name": "2\u00ba Curso de Treinador Grau 1 - 2/2",
             "category": "Componente Geral",
             "location": "Funchal",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 19
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "8 a 10",
             "type": "FOR",
             "division": "TR",
-            "name": "1º Curso de Treinador Grau 2 - 1/3",
+            "name": "1\u00ba Curso de Treinador Grau 2 - 1/3",
             "category": "Componente Geral",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 20
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "8 a 10",
             "type": "EQU",
             "division": "ABS",
@@ -234,46 +254,50 @@
             "location": "A definir",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 21
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "8 a 10",
             "type": "CIR",
             "division": "ABS",
             "name": "Open Smartpath by Factory",
             "category": "F1 a F5; M1 a M5; Mx2 a Mx4",
             "class": "2.000",
-            "prizeMoney": "2.000€",
+            "prizeMoney": "2.000\u20ac",
             "location": "Sintra",
             "partner": "Padel Campo Grande",
             "organization": "Padel Factory",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 22
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "11 a 14",
             "type": "FOR",
             "division": "TR",
-            "name": "2º Curso de Treinador Grau 1",
-            "category": "Componente Específica",
+            "name": "2\u00ba Curso de Treinador Grau 1",
+            "category": "Componente Espec\u00edfica",
             "location": "Funchal",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 23
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "15 a 17",
             "type": "FOR",
             "division": "TR",
-            "name": "1º Curso de Treinador Grau 2 - 2/4",
+            "name": "1\u00ba Curso de Treinador Grau 2 - 2/4",
             "category": "Componente Geral",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 24
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "15 a 17",
             "type": "EQU",
             "division": "ABS",
@@ -281,10 +305,11 @@
             "location": "A definir",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 25
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "14 a 17",
             "type": "CIR",
             "division": "VET",
@@ -292,24 +317,26 @@
             "category": "F: +35, +40, +45 e +50; M: +35, +40, +45, +50, +55 e +60",
             "location": "Sintra",
             "organization": "Padel Factory",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 26
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "14 a 17",
             "type": "CIR",
             "division": "ABS",
             "name": "Open Top-padel Braga",
             "category": "F1 a F6; M1 a M6; Mx1 a Mx4",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Braga",
             "partner": "Top-padel Braga Center Outdoor",
             "organization": "Top-padel Braga Center",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 27
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "14 a 17",
             "type": "CIR",
             "division": "ABS",
@@ -318,31 +345,34 @@
             "class": "1.000",
             "location": "Sintra",
             "organization": "Padel Sports Club",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 28
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "16",
             "type": "FOR",
             "division": "TR",
-            "name": "Fomação Contínua - Padel Adaptado",
+            "name": "Foma\u00e7\u00e3o Cont\u00ednua - Padel Adaptado",
             "location": "Online",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 29
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "22 a 24",
             "type": "FOR",
             "division": "TR",
-            "name": "1º Curso de Treinador Grau 2 - 3/4",
+            "name": "1\u00ba Curso de Treinador Grau 2 - 3/4",
             "category": "Componente Geral",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 30
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "22 a 24",
             "type": "EQU",
             "division": "ABS",
@@ -350,10 +380,11 @@
             "location": "A definir",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 31
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "22 a 24",
             "type": "CIR",
             "division": "ABS",
@@ -362,54 +393,59 @@
             "class": "1.000",
             "location": "Charneca da Caparica",
             "organization": "Rackets Pro Aquafitness",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 32
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "22 a 24",
             "type": "CIR",
             "division": "JOV",
             "name": "II Torneo NEXT GEN DREAM PADEL",
             "category": "F & M: Sub-12, Sub-14, Sub-16, Sub-18",
             "class": "5.000",
-            "location": "Setúbal",
+            "location": "Set\u00fabal",
             "organization": "Dream Padel Center",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 33
         },
         {
-            "month": "MARÇO",
+            "month": "MAR\u00c7O",
             "days": "29 a 31",
             "type": "CIR",
             "division": "ABS",
             "name": "Open Lemonfit",
             "category": "F2 a F6; M2 a M6",
             "class": "2.000",
-            "prizeMoney": "2.000€",
+            "prizeMoney": "2.000\u20ac",
             "location": "Lisboa",
             "organization": "Lemonfit Olaias",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 34
         },
         {
             "month": "ABRIL",
             "days": "5 a 7",
             "type": "FOR",
             "division": "TR",
-            "name": "1º Curso de Treinador Grau 2 - 4/4",
+            "name": "1\u00ba Curso de Treinador Grau 2 - 4/4",
             "category": "Componente Geral",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 35
         },
         {
             "month": "ABRIL",
             "days": "5 a 7",
             "type": "FOR",
             "division": "TR",
-            "name": "3º Curso de Treinador Grau 1 - 1/2",
+            "name": "3\u00ba Curso de Treinador Grau 1 - 1/2",
             "category": "Componente Geral",
             "location": "Porto",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 36
         },
         {
             "month": "ABRIL",
@@ -420,7 +456,8 @@
             "location": "A definir",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 37
         },
         {
             "month": "ABRIL",
@@ -430,11 +467,12 @@
             "name": "Open Aveiro Padel 2024",
             "category": "F1 a F5; M1 a M5; Mx2 e Mx3",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Aveiro",
             "partner": "AveiroPadel Clube dos Galitos",
             "organization": "Aveiro Padel Indoor",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 38
         },
         {
             "month": "ABRIL",
@@ -444,10 +482,11 @@
             "name": "X Open My Padel Center",
             "category": "F1 a F5; M1 a M5; Mx2 e Mx3",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Mafra",
             "organization": "My Padel Center",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 39
         },
         {
             "month": "ABRIL",
@@ -459,52 +498,57 @@
             "class": "1.000",
             "location": "Lisboa",
             "organization": "Lemonfit Olaias",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 40
         },
         {
             "month": "ABRIL",
             "days": "5 a 7",
             "type": "CIR",
             "division": "JOV",
-            "name": "Portimão Padel Jovem 2024",
+            "name": "Portim\u00e3o Padel Jovem 2024",
             "category": "F & M: Sub-12, Sub-14, Sub-16, Sub-18",
             "class": "5.000",
-            "location": "Portimão",
-            "organization": "Clube de Ténis e Padel de Portimão",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "location": "Portim\u00e3o",
+            "organization": "Clube de T\u00e9nis e Padel de Portim\u00e3o",
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 41
         },
         {
             "month": "ABRIL",
             "days": "8 a 14",
             "type": "FOR",
             "division": "TR",
-            "name": "1º Curso de Treinador Grau 2",
-            "category": "Componente Específica",
+            "name": "1\u00ba Curso de Treinador Grau 2",
+            "category": "Componente Espec\u00edfica",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 42
         },
         {
             "month": "ABRIL",
             "days": "12 a 14",
             "type": "FOR",
             "division": "TR",
-            "name": "3º Curso de Treinador Grau 1 - 2/2",
+            "name": "3\u00ba Curso de Treinador Grau 1 - 2/2",
             "category": "Componente Geral",
             "location": "Porto",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 43
         },
         {
             "month": "ABRIL",
             "days": "12 a 14",
             "type": "EQU",
             "division": "ABS",
-            "name": "Campeonato Nacional de Empresas - Finalíssima",
+            "name": "Campeonato Nacional de Empresas - Final\u00edssima",
             "location": "A definir",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 44
         },
         {
             "month": "ABRIL",
@@ -514,11 +558,12 @@
             "name": "V Open Rackets Pro EUL",
             "category": "F1 a F5; M1 a M5; Mx2 e Mx3",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Lisboa",
             "partner": "Rackets Pro Saldanha, Nacional Padel",
             "organization": "Rackets Pro EUL",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 45
         },
         {
             "month": "ABRIL",
@@ -528,10 +573,11 @@
             "name": "I Open Veteranos Dream Padel 2024",
             "category": "F: +35, +40, +45 e +50, +55, +60; M: +35, +40, +45, +50, +55 e +60",
             "class": "5.000",
-            "prizeMoney": "2.000€",
-            "location": "Setúbal",
+            "prizeMoney": "2.000\u20ac",
+            "location": "Set\u00fabal",
             "organization": "Dream Padel Center",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 46
         },
         {
             "month": "ABRIL",
@@ -542,29 +588,32 @@
             "category": "F & M: Sub-12, Sub-14, Sub-16, Sub-18",
             "class": "5.000",
             "location": "Carcavelos",
-            "organization": "Carcavelos Ténis e Padel",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "organization": "Carcavelos T\u00e9nis e Padel",
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 47
         },
         {
             "month": "ABRIL",
             "days": "15 a 18",
             "type": "FOR",
             "division": "TR",
-            "name": "3º Curso de Treinador Grau 1",
-            "category": "Componente Específica",
+            "name": "3\u00ba Curso de Treinador Grau 1",
+            "category": "Componente Espec\u00edfica",
             "location": "Porto",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 48
         },
         {
             "month": "ABRIL",
             "days": "18 a 21",
             "type": "FOR",
             "division": "JA",
-            "name": "2º Curso de Juiz-Árbitro",
+            "name": "2\u00ba Curso de Juiz-\u00c1rbitro",
             "location": "Porto",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 49
         },
         {
             "month": "ABRIL",
@@ -575,7 +624,8 @@
             "category": "VET M&F +35 a +60 e JOV M&F S12 a S18",
             "class": "5.000",
             "location": "Norte",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 50
         },
         {
             "month": "ABRIL",
@@ -586,7 +636,8 @@
             "category": "VET M&F +35 a +60 e JOV M&F S12 a S18",
             "class": "5.000",
             "location": "Centro",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 51
         },
         {
             "month": "ABRIL",
@@ -597,7 +648,8 @@
             "category": "VET M&F +35 a +60 e JOV M&F S12 a S18",
             "class": "5.000",
             "location": "Lisboa",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 52
         },
         {
             "month": "ABRIL",
@@ -607,8 +659,9 @@
             "name": "Campeonato Regional de Padel Veteranos e Jovens",
             "category": "VET M&F +35 a +60 e JOV M&F S12 a S18",
             "class": "5.000",
-            "location": "Setúbal",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "location": "Set\u00fabal",
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 53
         },
         {
             "month": "ABRIL",
@@ -619,7 +672,8 @@
             "category": "VET M&F +35 a +60 e JOV M&F S12 a S18",
             "class": "5.000",
             "location": "Alentejo",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 54
         },
         {
             "month": "ABRIL",
@@ -630,7 +684,8 @@
             "category": "VET M&F +35 a +60 e JOV M&F S12 a S18",
             "class": "5.000",
             "location": "Sul",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 55
         },
         {
             "month": "ABRIL",
@@ -642,7 +697,8 @@
             "class": "5.000",
             "location": "Madeira",
             "partner": "APMAD",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 56
         },
         {
             "month": "ABRIL",
@@ -652,31 +708,34 @@
             "name": "Campeonato Regional de Padel Veteranos e Jovens",
             "category": "VET M&F +35 a +60 e JOV M&F S12 a S18",
             "class": "5.000",
-            "location": "Açores",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "location": "A\u00e7ores",
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 57
         },
         {
             "month": "ABRIL",
             "days": "18 a 21",
             "type": "CIR",
             "division": "ABS",
-            "name": "2º Open Blue Padel Kourts",
+            "name": "2\u00ba Open Blue Padel Kourts",
             "category": "F1 a F5; M1 a M5; Mx2 e Mx3",
             "class": "5.000",
-            "prizeMoney": "5.000€",
-            "location": "Linhó",
+            "prizeMoney": "5.000\u20ac",
+            "location": "Linh\u00f3",
             "organization": "Blue Padel Kourts",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 58
         },
         {
             "month": "ABRIL",
             "days": "20",
             "type": "FOR",
             "division": "TR",
-            "name": "Fomação Contínua - Padel Juvenil Módulo 1",
+            "name": "Foma\u00e7\u00e3o Cont\u00ednua - Padel Juvenil M\u00f3dulo 1",
             "location": "Online",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 59
         },
         {
             "month": "ABRIL",
@@ -686,10 +745,11 @@
             "name": "Torneio Club 7",
             "category": "F1 a F4; M1 a M4",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Lisboa",
             "organization": "Club 7",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 60
         },
         {
             "month": "ABRIL",
@@ -699,10 +759,11 @@
             "name": "Azores Padel Open",
             "category": "F1 a F4; M1 a M4",
             "class": "5.000",
-            "prizeMoney": "5.000€",
-            "location": "Açores",
+            "prizeMoney": "5.000\u20ac",
+            "location": "A\u00e7ores",
             "organization": "Azores Padel Club",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 61
         },
         {
             "month": "ABRIL",
@@ -712,10 +773,11 @@
             "name": "Carvoeiro Cup",
             "category": "F: +35, +40, +45 e +50, +55, +60; M: +35, +40, +45, +50, +55 e +60",
             "class": "2.000",
-            "prizeMoney": "1.000€",
+            "prizeMoney": "1.000\u20ac",
             "location": "Carvoeiro",
-            "organization": "Carvoeiro Clube de Ténis",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "organization": "Carvoeiro Clube de T\u00e9nis",
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 62
         },
         {
             "month": "MAIO",
@@ -725,11 +787,12 @@
             "name": "Open Kia Rackets Pro",
             "category": "F1 a F6; M1 a M6; Mx1 a Mx5",
             "class": "10.000",
-            "prizeMoney": "10.000€",
+            "prizeMoney": "10.000\u20ac",
             "location": "Lisboa",
             "partner": "Rackets Pro Saldanha, EUL",
             "organization": "Rackets Pro Nacional Padel",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 63
         },
         {
             "month": "MAIO",
@@ -739,46 +802,50 @@
             "name": "Fluvial Open 2024",
             "category": "F1 a F6; M1 a M6; Mx1 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Porto",
             "partner": "Top-padel Quinta do Fojo, Industrial e Maia Center",
             "organization": "Top-padel Fluvial",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 64
         },
         {
             "month": "MAIO",
             "days": "2 a 5",
             "type": "CIR",
             "division": "VET",
-            "name": "Open Portimão Padel Veteranos",
+            "name": "Open Portim\u00e3o Padel Veteranos",
             "category": "F: +35, +40, +45 e +50, +55, +60; M: +35, +40, +45, +50, +55 e +60",
             "class": "15.000",
-            "prizeMoney": "5.000€",
-            "location": "Portimão",
-            "organization": "Clube de Ténis e Padel de Portimão",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "prizeMoney": "5.000\u20ac",
+            "location": "Portim\u00e3o",
+            "organization": "Clube de T\u00e9nis e Padel de Portim\u00e3o",
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 65
         },
         {
             "month": "MAIO",
             "days": "3 a 5",
             "type": "FOR",
             "division": "TR",
-            "name": "4º Curso de Treinador Grau 1 - 1/2",
+            "name": "4\u00ba Curso de Treinador Grau 1 - 1/2",
             "category": "Componente Geral",
             "location": "Algarve",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 66
         },
         {
             "month": "MAIO",
             "days": "10 a 12",
             "type": "FOR",
             "division": "TR",
-            "name": "4º Curso de Treinador Grau 1 - 2/2",
+            "name": "4\u00ba Curso de Treinador Grau 1 - 2/2",
             "category": "Componente Geral",
             "location": "Algarve",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 67
         },
         {
             "month": "MAIO",
@@ -790,7 +857,8 @@
             "class": "5.000",
             "location": "Norte",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 68
         },
         {
             "month": "MAIO",
@@ -802,7 +870,8 @@
             "class": "5.000",
             "location": "Centro",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 69
         },
         {
             "month": "MAIO",
@@ -814,7 +883,8 @@
             "class": "5.000",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 70
         },
         {
             "month": "MAIO",
@@ -824,9 +894,10 @@
             "name": "Campeonato Regional de Padel Absolutos",
             "category": "F1 a F6 e M1 a M6",
             "class": "5.000",
-            "location": "Setúbal",
+            "location": "Set\u00fabal",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 71
         },
         {
             "month": "MAIO",
@@ -838,7 +909,8 @@
             "class": "5.000",
             "location": "Alentejo",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 72
         },
         {
             "month": "MAIO",
@@ -850,7 +922,8 @@
             "class": "5.000",
             "location": "Sul",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 73
         },
         {
             "month": "MAIO",
@@ -863,7 +936,8 @@
             "location": "Madeira",
             "partner": "APMAD",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 74
         },
         {
             "month": "MAIO",
@@ -873,30 +947,33 @@
             "name": "Campeonato Regional de Padel Absolutos",
             "category": "F1 a F6 e M1 a M6",
             "class": "5.000",
-            "location": "Açores",
+            "location": "A\u00e7ores",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 75
         },
         {
             "month": "MAIO",
             "days": "13 a 16",
             "type": "FOR",
             "division": "TR",
-            "name": "4º Curso de Treinador Grau 1",
-            "category": "Componente Específica",
+            "name": "4\u00ba Curso de Treinador Grau 1",
+            "category": "Componente Espec\u00edfica",
             "location": "Algarve",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 76
         },
         {
             "month": "MAIO",
             "days": "16 a 19",
             "type": "FOR",
             "division": "JA",
-            "name": "3º Curso de Juiz-Árbitro",
+            "name": "3\u00ba Curso de Juiz-\u00c1rbitro",
             "location": "Algarve",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 77
         },
         {
             "month": "MAIO",
@@ -906,24 +983,26 @@
             "name": "Open Top-padel Braga Center Outdoor",
             "category": "F1 a F5; M1 a M5; Mx1 a Mx5",
             "class": "10.000",
-            "prizeMoney": "10.000€",
+            "prizeMoney": "10.000\u20ac",
             "location": "Braga",
             "partner": "Top-padel Braga Center",
             "organization": "Top-padel Braga Center Outdoor",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 78
         },
         {
             "month": "MAIO",
             "days": "17 a 19",
             "type": "CIR",
             "division": "ABS",
-            "name": "Open Carcavelos Ténis e Padel",
+            "name": "Open Carcavelos T\u00e9nis e Padel",
             "category": "F1, F3 e F4; M1 a M4; Mx3",
             "class": "2.000",
-            "prizeMoney": "2.000€",
+            "prizeMoney": "2.000\u20ac",
             "location": "Carcavelos",
-            "organization": "Carcavelos Ténis e Padel",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "organization": "Carcavelos T\u00e9nis e Padel",
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 79
         },
         {
             "month": "MAIO",
@@ -935,52 +1014,57 @@
             "class": "1.000",
             "location": "Sintra",
             "organization": "Azen Cool Padel",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 80
         },
         {
             "month": "MAIO",
             "days": "17 a 19",
             "type": "CIR",
             "division": "VET",
-            "name": "Troféu de Oeiras de Veteranos",
+            "name": "Trof\u00e9u de Oeiras de Veteranos",
             "category": "F: +35,+45; M: +35,+45,+50,+55",
             "class": "1.000",
             "location": "Oeiras",
             "organization": "CETO Padel",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 81
         },
         {
             "month": "MAIO",
             "days": "18 e 19",
             "type": "CIR",
             "division": "JOV",
-            "name": "Troféu de Oeiras de Jovens",
+            "name": "Trof\u00e9u de Oeiras de Jovens",
             "category": "F & M: Sub-12, Sub-14, Sub-16, Sub-18",
             "class": "5.000",
             "location": "Oeiras",
             "organization": "CETO Padel",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 82
         },
         {
             "month": "MAIO",
             "days": "18",
             "type": "FOR",
             "division": "TR",
-            "name": "Fomação Contínua - Padel passado, presente e futuro",
+            "name": "Foma\u00e7\u00e3o Cont\u00ednua - Padel passado, presente e futuro",
             "location": "Online",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 83
         },
         {
             "month": "MAIO",
             "days": "24 a 26",
             "type": "FOR",
             "division": "TR",
-            "name": "5º Curso de Treinador Grau 1 - 1/2",
+            "name": "5\u00ba Curso de Treinador Grau 1 - 1/2",
             "category": "Componente Geral",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 84
         },
         {
             "month": "MAIO",
@@ -990,10 +1074,11 @@
             "name": "V Open W Padel Country Club",
             "category": "F1 a F5; M1 a M5; Mx1 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Monsanto",
             "organization": "W Padel Country Club",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 85
         },
         {
             "month": "MAIO",
@@ -1003,11 +1088,12 @@
             "name": "Open Quinta de Monserrate",
             "category": "F1 a F5; M1 a M5; Mx1 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Porto",
             "partner": "Quinta de Monserrate Indoor",
             "organization": "Quinta de Monserrate Clube",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 86
         },
         {
             "month": "MAIO",
@@ -1017,10 +1103,11 @@
             "name": "TGLC @RacketsPro (Uni.Nova Caparica) by A2IT",
             "category": "F: +35, +40, +45 e +50, +55, +60; M: +35, +40, +45, +50, +55 e +60",
             "class": "10.000",
-            "prizeMoney": "3.000€",
+            "prizeMoney": "3.000\u20ac",
             "location": "Monte Caparica",
             "organization": "Rackets Pro Nova",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 87
         },
         {
             "month": "MAIO",
@@ -1032,18 +1119,20 @@
             "class": "5.000",
             "location": "Aveiro",
             "organization": "Aveiro Padel Clube dos Galitos",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 88
         },
         {
             "month": "JUNHO",
             "days": "31/05 a 2",
             "type": "FOR",
             "division": "TR",
-            "name": "5º Curso de Treinador Grau 1 - 2/2",
+            "name": "5\u00ba Curso de Treinador Grau 1 - 2/2",
             "category": "Componente Geral",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 89
         },
         {
             "month": "JUNHO",
@@ -1056,18 +1145,20 @@
             "location": "Norte",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 90
         },
         {
             "month": "JUNHO",
             "days": "3 a 6",
             "type": "FOR",
             "division": "TR",
-            "name": "5º Curso de Treinador Grau 1",
-            "category": "Componente Específica",
+            "name": "5\u00ba Curso de Treinador Grau 1",
+            "category": "Componente Espec\u00edfica",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 91
         },
         {
             "month": "JUNHO",
@@ -1080,17 +1171,19 @@
             "location": "Norte",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 92
         },
         {
             "month": "JUNHO",
             "days": "8",
             "type": "FOR",
             "division": "TR",
-            "name": "Fomação Contínua - Padel Juvenil Módulo 2",
+            "name": "Foma\u00e7\u00e3o Cont\u00ednua - Padel Juvenil M\u00f3dulo 2",
             "location": "Online",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 93
         },
         {
             "month": "JUNHO",
@@ -1100,38 +1193,41 @@
             "name": "V Torneio de Veteranos My Padel Center",
             "category": "F: +35, +40, +45 e +50, +55, +60; M: +35, +40, +45, +50, +55 e +60",
             "class": "15.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Mafra",
             "organization": "My Padel Center",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 94
         },
         {
             "month": "JUNHO",
             "days": "13 a 16",
             "type": "CIR",
             "division": "ABS",
-            "name": "3º Open New Padel",
+            "name": "3\u00ba Open New Padel",
             "category": "F1 a F5; M1 a M5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Viseu",
             "partner": "Tondela Padel Club",
-            "organization": "New Padel - Chão da Fonte",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "organization": "New Padel - Ch\u00e3o da Fonte",
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 95
         },
         {
             "month": "JUNHO",
             "days": "13 a 16",
             "type": "CIR",
             "division": "ABS",
-            "name": "1º Open da Academia de Padel do Pinhal Vidal",
+            "name": "1\u00ba Open da Academia de Padel do Pinhal Vidal",
             "category": "F1 a F5; M1 a M5; Mx2 a Mx4",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Corroios",
             "partner": "Mr. Padel",
             "organization": "Academia de Padel Pinhal Vidal",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 96
         },
         {
             "month": "JUNHO",
@@ -1143,7 +1239,8 @@
             "class": "1.000",
             "location": "Condeixa-a-Nova",
             "organization": "77' Academy",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 97
         },
         {
             "month": "JUNHO",
@@ -1153,10 +1250,11 @@
             "name": "Open Prosonic 2024",
             "category": "F1 a F5; M1 a M5; Mx2 a Mx4",
             "class": "10.000",
-            "prizeMoney": "10.000€",
+            "prizeMoney": "10.000\u20ac",
             "location": "Oeiras",
             "organization": "Oeiras Padel Academy",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 98
         },
         {
             "month": "JUNHO",
@@ -1166,44 +1264,48 @@
             "name": "Open Club 7",
             "category": "F: +35, +40, +45 e +50, +55, +60; M: +35, +40, +45, +50, +55 e +60",
             "class": "2.000",
-            "prizeMoney": "1.000€",
+            "prizeMoney": "1.000\u20ac",
             "location": "Lisboa",
             "organization": "Club 7",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 99
         },
         {
             "month": "JUNHO",
             "days": "21 a 23",
             "type": "CIR",
             "division": "VET",
-            "name": "6º Open Veterano 1000 TCFF MCOUTINHO BOMCAR",
+            "name": "6\u00ba Open Veterano 1000 TCFF MCOUTINHO BOMCAR",
             "category": "F: +35, +40, +45 e +50, +55, +60; M: +35, +40, +45, +50, +55 e +60",
             "class": "1.000",
             "location": "Figueira da Foz",
             "organization": "Tennis Club da Figueira da Foz",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 100
         },
         {
             "month": "JUNHO",
             "days": "21 a 23",
             "type": "FOR",
             "division": "TR",
-            "name": "6º Curso de Treinador Grau 1 - 1/2",
+            "name": "6\u00ba Curso de Treinador Grau 1 - 1/2",
             "category": "Componente Geral",
             "location": "Coimbra",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 101
         },
         {
             "month": "JUNHO",
             "days": "28 a 30",
             "type": "FOR",
             "division": "TR",
-            "name": "6º Curso de Treinador Grau 1 - 2/2",
+            "name": "6\u00ba Curso de Treinador Grau 1 - 2/2",
             "category": "Componente Geral",
             "location": "Coimbra",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 102
         },
         {
             "month": "JUNHO",
@@ -1216,7 +1318,8 @@
             "location": "Algarve",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 103
         },
         {
             "month": "JUNHO",
@@ -1226,10 +1329,11 @@
             "name": "IX Open Quinta dos Lombos Padel",
             "category": "F1 a F5; M1 a M5; Mx2 a Mx4",
             "class": "10.000",
-            "prizeMoney": "10.000€",
+            "prizeMoney": "10.000\u20ac",
             "location": "Carcavelos",
             "organization": "Quinta dos Lombos Padel",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 104
         },
         {
             "month": "JUNHO",
@@ -1239,32 +1343,35 @@
             "name": "Gentlemens and Ladies Crew Vilamoura",
             "category": "F: +35, +40, +45 e +50, +55, +60; M: +35, +40, +45, +50, +55 e +60",
             "class": "10.000",
-            "prizeMoney": "3.000€",
+            "prizeMoney": "3.000\u20ac",
             "location": "Vilamoura",
             "organization": "Vilamoura Tennis & Padel Academy",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 105
         },
         {
             "month": "JULHO",
             "days": "1 a 4",
             "type": "FOR",
             "division": "TR",
-            "name": "6º Curso de Treinador Grau 1",
-            "category": "Componente Específica",
+            "name": "6\u00ba Curso de Treinador Grau 1",
+            "category": "Componente Espec\u00edfica",
             "location": "Coimbra",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 106
         },
         {
             "month": "JULHO",
             "days": "5 a 7",
             "type": "FOR",
             "division": "TR",
-            "name": "7º Curso de Treinador Grau 1 - 1/2",
+            "name": "7\u00ba Curso de Treinador Grau 1 - 1/2",
             "category": "Componente Geral",
-            "location": "Açores",
+            "location": "A\u00e7ores",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 107
         },
         {
             "month": "JULHO",
@@ -1274,22 +1381,24 @@
             "name": "Open Padel Factory",
             "category": "F1 a F5; M1 a M5; Mx2 a Mx4",
             "class": "10.000",
-            "prizeMoney": "10.000€",
+            "prizeMoney": "10.000\u20ac",
             "location": "Sintra",
             "partner": "Padel Campo Grande",
             "organization": "Padel Factory",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 108
         },
         {
             "month": "JULHO",
             "days": "12 a 14",
             "type": "FOR",
             "division": "TR",
-            "name": "7º Curso de Treinador Grau 1 - 2/2",
+            "name": "7\u00ba Curso de Treinador Grau 1 - 2/2",
             "category": "Componente Geral",
-            "location": "Açores",
+            "location": "A\u00e7ores",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 109
         },
         {
             "month": "JULHO",
@@ -1301,7 +1410,8 @@
             "location": "Centro",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 110
         },
         {
             "month": "JULHO",
@@ -1313,7 +1423,8 @@
             "location": "Centro",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 111
         },
         {
             "month": "JULHO",
@@ -1323,11 +1434,12 @@
             "name": "Open Irbal 2024 | Aveiro Padel",
             "category": "F1 a F5; M1 a M5; Mx3 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Aveiro",
             "partner": "Aveiro Padel Indoor",
             "organization": "Aveiro Padel Clube dos Galitos",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 112
         },
         {
             "month": "JULHO",
@@ -1337,21 +1449,23 @@
             "name": "X Open Quinta da Marinha",
             "category": "F1 a F4; M1 a M4",
             "class": "2.000",
-            "prizeMoney": "2.000€",
+            "prizeMoney": "2.000\u20ac",
             "location": "Cascais",
             "organization": "Rackets Pro Quinta da Marinha",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 113
         },
         {
             "month": "JULHO",
             "days": "15 a 18",
             "type": "FOR",
             "division": "TR",
-            "name": "7º Curso de Treinador Grau 1",
-            "category": "Componente Específica",
-            "location": "Açores",
+            "name": "7\u00ba Curso de Treinador Grau 1",
+            "category": "Componente Espec\u00edfica",
+            "location": "A\u00e7ores",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 114
         },
         {
             "month": "JULHO",
@@ -1361,11 +1475,12 @@
             "name": "Mimosa Open 2024",
             "category": "F1 a F6; M1 a M6; Mx1 a Mx5",
             "class": "10.000",
-            "prizeMoney": "10.000€",
+            "prizeMoney": "10.000\u20ac",
             "location": "Porto",
             "partner": "Top-padel Fluvial, Industrial e Maia Center",
             "organization": "Top-padel Quinta do Fojo",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 115
         },
         {
             "month": "JULHO",
@@ -1377,41 +1492,45 @@
             "class": "1.000",
             "location": "Oeiras",
             "organization": "CETO Padel",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 116
         },
         {
             "month": "JULHO",
             "days": "18 a 21",
             "type": "FOR",
             "division": "JA",
-            "name": "4º Curso de Juiz-Árbitro",
-            "location": "Açores",
+            "name": "4\u00ba Curso de Juiz-\u00c1rbitro",
+            "location": "A\u00e7ores",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 117
         },
         {
             "month": "JULHO",
             "days": "20",
             "type": "FOR",
             "division": "TR",
-            "name": "Fomação Contínua - Controlo e qualidade no serviço ao cliente",
+            "name": "Foma\u00e7\u00e3o Cont\u00ednua - Controlo e qualidade no servi\u00e7o ao cliente",
             "location": "Online",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 118
         },
         {
             "month": "JULHO",
             "days": "25 a 28",
             "type": "CIR",
             "division": "ABS",
-            "name": "7º Open Star Padel Coimbra",
+            "name": "7\u00ba Open Star Padel Coimbra",
             "category": "F1 a F5; M1 a M5; Mx3 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Coimbra",
             "partner": "Star Padel Indoor Coimbra",
             "organization": "Star Padel Outdoor Coimbra",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 119
         },
         {
             "month": "JULHO",
@@ -1421,23 +1540,25 @@
             "name": "III Open Rackets Pro Nova",
             "category": "F1 a F5; M1 a M5; Mx3 a Mx5",
             "class": "2.000",
-            "prizeMoney": "2.000€",
+            "prizeMoney": "2.000\u20ac",
             "location": "Caparica",
             "organization": "Rackets Pro Nova",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 120
         },
         {
             "month": "JULHO",
             "days": "25 a 28",
             "type": "CIR",
             "division": "VET",
-            "name": "1º Veteranos Padel4Move Open",
+            "name": "1\u00ba Veteranos Padel4Move Open",
             "category": "F: +35, +40, +45 e +50, +55, +60; M: +35, +40, +45, +50, +55 e +60",
             "class": "10.000",
-            "prizeMoney": "3.000€",
+            "prizeMoney": "3.000\u20ac",
             "location": "Albufeira",
             "organization": "Padel4move",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 121
         },
         {
             "month": "AGOSTO",
@@ -1447,23 +1568,25 @@
             "name": "Open Internacional de Padel",
             "category": "F1 a F5; M1 a M5; Mx3 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
-            "location": "Vila Real de Santo António",
+            "prizeMoney": "5.000\u20ac",
+            "location": "Vila Real de Santo Ant\u00f3nio",
             "organization": "Padel Clube VRSA",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 122
         },
         {
             "month": "AGOSTO",
             "days": "9 a 11",
             "type": "CIR",
             "division": "ABS",
-            "name": "Portimão Padel Open 2024",
+            "name": "Portim\u00e3o Padel Open 2024",
             "category": "F1 a F5; M1 a M5; Mx3 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
-            "location": "Portimão",
-            "organization": "Clube de Ténis e Padel de Portimão",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "prizeMoney": "5.000\u20ac",
+            "location": "Portim\u00e3o",
+            "organization": "Clube de T\u00e9nis e Padel de Portim\u00e3o",
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 123
         },
         {
             "month": "AGOSTO",
@@ -1473,35 +1596,38 @@
             "name": "Vilamoura Summer Cup",
             "category": "F1 a F5; M1 a M5; Mx1 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Vilamoura",
             "organization": "Vilamoura Tennis & Padel Academy",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 124
         },
         {
             "month": "AGOSTO",
             "days": "22 a 25",
             "type": "CIR",
             "division": "ABS",
-            "name": "2º Open Padel4move",
+            "name": "2\u00ba Open Padel4move",
             "category": "F1 a F5; M1 a M5; Mx3 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Albufeira",
             "organization": "Padel4move",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 125
         },
         {
             "month": "AGOSTO",
             "days": "23 a 25",
             "type": "CIR",
             "division": "ABS",
-            "name": "6º Open Absoluto 1000 TCFF/VOLVO LITOCAR",
+            "name": "6\u00ba Open Absoluto 1000 TCFF/VOLVO LITOCAR",
             "category": "F3, F4; M3, M4",
             "class": "1.000",
             "location": "Figueira da Foz",
             "organization": "Tennis Club da Figueira da Foz",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 126
         },
         {
             "month": "SETEMBRO",
@@ -1512,7 +1638,8 @@
             "category": "VET M&F +35 a +60; JOV M&F S12 a S18; M2 a M6 e F2 a F6",
             "location": "Norte",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 127
         },
         {
             "month": "SETEMBRO",
@@ -1523,7 +1650,8 @@
             "category": "VET M&F +35 a +60; JOV M&F S12 a S18; M2 a M6 e F2 a F6",
             "location": "Centro",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 128
         },
         {
             "month": "SETEMBRO",
@@ -1534,7 +1662,8 @@
             "category": "VET M&F +35 a +60; JOV M&F S12 a S18; M2 a M6 e F2 a F6",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 129
         },
         {
             "month": "SETEMBRO",
@@ -1543,9 +1672,10 @@
             "division": "ABS",
             "name": "Fase Final Regional Liga de Clubes",
             "category": "VET M&F +35 a +60; JOV M&F S12 a S18; M2 a M6 e F2 a F6",
-            "location": "Setúbal",
+            "location": "Set\u00fabal",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 130
         },
         {
             "month": "SETEMBRO",
@@ -1556,7 +1686,8 @@
             "category": "VET M&F +35 a +60; JOV M&F S12 a S18; M2 a M6 e F2 a F6",
             "location": "Alentejo",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 131
         },
         {
             "month": "SETEMBRO",
@@ -1567,7 +1698,8 @@
             "category": "VET M&F +35 a +60; JOV M&F S12 a S18; M2 a M6 e F2 a F6",
             "location": "Sul",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 132
         },
         {
             "month": "SETEMBRO",
@@ -1578,7 +1710,8 @@
             "category": "VET M&F +35 a +60; JOV M&F S12 a S18; M2 a M6 e F2 a F6",
             "location": "Madeira",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 133
         },
         {
             "month": "SETEMBRO",
@@ -1587,20 +1720,22 @@
             "division": "ABS",
             "name": "Fase Final Regional Liga de Clubes",
             "category": "VET M&F +35 a +60; JOV M&F S12 a S18; M2 a M6 e F2 a F6",
-            "location": "Açores",
+            "location": "A\u00e7ores",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 134
         },
         {
             "month": "SETEMBRO",
             "days": "6 a 8",
             "type": "FOR",
             "division": "TR",
-            "name": "8º Curso de Treinador Grau 1 - 1/2",
+            "name": "8\u00ba Curso de Treinador Grau 1 - 1/2",
             "category": "Componente Geral",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 135
         },
         {
             "month": "SETEMBRO",
@@ -1613,34 +1748,37 @@
             "location": "Lisboa",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 136
         },
         {
             "month": "SETEMBRO",
             "days": "5 a 8",
             "type": "CIR",
             "division": "ABS",
-            "name": "2º Open Tondela Padel Club",
+            "name": "2\u00ba Open Tondela Padel Club",
             "category": "F1 a F5; M1 a M5; Mx3 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Tondela",
-            "partner": "New Padel - Chão da Fonte",
+            "partner": "New Padel - Ch\u00e3o da Fonte",
             "organization": "Tondela Padel Club",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 137
         },
         {
             "month": "SETEMBRO",
             "days": "5 a 8",
             "type": "CIR",
             "division": "ABS",
-            "name": "2º Open Dream Padel Center Setúbal 2024",
+            "name": "2\u00ba Open Dream Padel Center Set\u00fabal 2024",
             "category": "F1 a F5; M1 a M5; Mx3 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
-            "location": "Setúbal",
+            "prizeMoney": "5.000\u20ac",
+            "location": "Set\u00fabal",
             "organization": "Dream Padel Center",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 138
         },
         {
             "month": "SETEMBRO",
@@ -1650,20 +1788,22 @@
             "name": "Carvoeiro Open",
             "category": "F1 a F5; M1 a M5; Mx3 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Carvoeiro",
-            "organization": "Carvoeiro Clube de Ténis",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "organization": "Carvoeiro Clube de T\u00e9nis",
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 139
         },
         {
             "month": "SETEMBRO",
             "days": "7",
             "type": "FOR",
             "division": "TR",
-            "name": "Fomação Contínua - Preparação Física no Padel",
+            "name": "Foma\u00e7\u00e3o Cont\u00ednua - Prepara\u00e7\u00e3o F\u00edsica no Padel",
             "location": "Online",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 140
         },
         {
             "month": "SETEMBRO",
@@ -1673,69 +1813,75 @@
             "name": "Maia Padel Open 2024",
             "category": "F1 a F6; M1 a M6; Mx1 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Maia",
             "partner": "Top-padel Industrial, Fojo e Fluvial",
             "organization": "Top-padel Maia Center",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 141
         },
         {
             "month": "SETEMBRO",
             "days": "12 a 15",
             "type": "CIR",
             "division": "ABS",
-            "name": "1º Open Mr. Padel",
+            "name": "1\u00ba Open Mr. Padel",
             "category": "F1 a F5; M1 a M5",
             "class": "2.000",
-            "prizeMoney": "2.000€",
+            "prizeMoney": "2.000\u20ac",
             "location": "Moita",
             "partner": "Academia de Padel Pinhal Vidal",
             "organization": "Mr. Padel",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 142
         },
         {
             "month": "SETEMBRO",
             "days": "13 a 15",
             "type": "FOR",
             "division": "TR",
-            "name": "8º Curso de Treinador Grau 1 - 2/2",
+            "name": "8\u00ba Curso de Treinador Grau 1 - 2/2",
             "category": "Componente Geral",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 143
         },
         {
             "month": "SETEMBRO",
             "days": "13 a 15",
             "type": "FOR",
             "division": "TR",
-            "name": "2º Curso de Treinador Grau 2 - 1/4",
+            "name": "2\u00ba Curso de Treinador Grau 2 - 1/4",
             "category": "Componente Geral",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 144
         },
         {
             "month": "SETEMBRO",
             "days": "16 a 19",
             "type": "FOR",
             "division": "TR",
-            "name": "8º Curso de Treinador Grau 1",
-            "category": "Componente Específica",
+            "name": "8\u00ba Curso de Treinador Grau 1",
+            "category": "Componente Espec\u00edfica",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 145
         },
         {
             "month": "SETEMBRO",
             "days": "20 a 22",
             "type": "FOR",
             "division": "TR",
-            "name": "2º Curso de Treinador Grau 2 - 2/4",
+            "name": "2\u00ba Curso de Treinador Grau 2 - 2/4",
             "category": "Componente Geral",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 146
         },
         {
             "month": "SETEMBRO",
@@ -1748,7 +1894,8 @@
             "location": "Centro",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 147
         },
         {
             "month": "SETEMBRO",
@@ -1759,18 +1906,20 @@
             "location": "Centro",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 148
         },
         {
             "month": "SETEMBRO",
             "days": "27 a 29",
             "type": "FOR",
             "division": "TR",
-            "name": "2º Curso de Treinador Grau 2 - 3/4",
+            "name": "2\u00ba Curso de Treinador Grau 2 - 3/4",
             "category": "Componente Geral",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 149
         },
         {
             "month": "SETEMBRO",
@@ -1781,29 +1930,32 @@
             "category": "M & F",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 150
         },
         {
             "month": "OUTUBRO",
             "days": "4 a 6",
             "type": "FOR",
             "division": "TR",
-            "name": "2º Curso de Treinador Grau 2 - 4/4",
+            "name": "2\u00ba Curso de Treinador Grau 2 - 4/4",
             "category": "Componente Geral",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 151
         },
         {
             "month": "OUTUBRO",
             "days": "4 a 6",
             "type": "FOR",
             "division": "TR",
-            "name": "9º Curso de Treinador Grau 1 - 1/2",
+            "name": "9\u00ba Curso de Treinador Grau 1 - 1/2",
             "category": "Componente Geral",
             "location": "Porto",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 152
         },
         {
             "month": "OUTUBRO",
@@ -1814,29 +1966,32 @@
             "category": "M & F",
             "partner": "PPR",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 153
         },
         {
             "month": "OUTUBRO",
             "days": "7 a 13",
             "type": "FOR",
             "division": "TR",
-            "name": "2º Curso de Treinador Grau 2",
-            "category": "Componente Específica",
+            "name": "2\u00ba Curso de Treinador Grau 2",
+            "category": "Componente Espec\u00edfica",
             "location": "Lisboa",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 154
         },
         {
             "month": "OUTUBRO",
             "days": "11 a 13",
             "type": "FOR",
             "division": "TR",
-            "name": "9º Curso de Treinador Grau 1 - 2/2",
+            "name": "9\u00ba Curso de Treinador Grau 1 - 2/2",
             "category": "Componente Geral",
             "location": "Porto",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 155
         },
         {
             "month": "OUTUBRO",
@@ -1846,35 +2001,38 @@
             "name": "Open Veteranos APS",
             "category": "F: +35, +40, +45 e +50, +55, +60; M: +35, +40, +45, +50, +55 e +60",
             "class": "10.000",
-            "prizeMoney": "3.000€",
-            "location": "Setúbal",
-            "organization": "Academia Padel Setúbal",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "prizeMoney": "3.000\u20ac",
+            "location": "Set\u00fabal",
+            "organization": "Academia Padel Set\u00fabal",
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 156
         },
         {
             "month": "OUTUBRO",
             "days": "11 a 13",
             "type": "CIR",
             "division": "VET",
-            "name": "Open Veterano by Carcavelos Ténis e Padel",
+            "name": "Open Veterano by Carcavelos T\u00e9nis e Padel",
             "category": "F: +35,+45, +55; M: +35, +45 +55",
             "class": "1.000",
             "location": "Carcavelos",
-            "organization": "Carcavelos Ténis e Padel",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "organization": "Carcavelos T\u00e9nis e Padel",
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 157
         },
         {
             "month": "OUTUBRO",
             "days": "11 a 13",
             "type": "CIR",
             "division": "ABS",
-            "name": "I Open W Padel & Ténis Parque",
+            "name": "I Open W Padel & T\u00e9nis Parque",
             "category": "F1 a F5; M1 a M5; Mx3 a Mx5",
             "class": "2.000",
-            "prizeMoney": "2.000€",
+            "prizeMoney": "2.000\u20ac",
             "location": "Barreiro",
-            "organization": "W Padel & Ténis Parque",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "organization": "W Padel & T\u00e9nis Parque",
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 158
         },
         {
             "month": "OUTUBRO",
@@ -1886,7 +2044,8 @@
             "class": "1.000",
             "location": "Elvas",
             "organization": "Europadel",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 159
         },
         {
             "month": "OUTUBRO",
@@ -1898,31 +2057,34 @@
             "class": "1.000",
             "location": "Ericeira",
             "organization": "Cool Padel Ericeira",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 160
         },
         {
             "month": "OUTUBRO",
             "days": "14 a 17",
             "type": "FOR",
             "division": "TR",
-            "name": "9º Curso de Treinador Grau 1",
-            "category": "Componente Específica",
+            "name": "9\u00ba Curso de Treinador Grau 1",
+            "category": "Componente Espec\u00edfica",
             "location": "Porto",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 161
         },
         {
             "month": "OUTUBRO",
             "days": "16 a 20",
             "type": "CIR",
             "division": "ABS",
-            "name": "2º Open AlmeirINN Padel",
+            "name": "2\u00ba Open AlmeirINN Padel",
             "category": "F1 a F5; M1 a M5; Mx3 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Almeirim",
             "organization": "AlmeirINN Padel",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 162
         },
         {
             "month": "OUTUBRO",
@@ -1932,11 +2094,12 @@
             "name": "Open 4 AID 2024",
             "category": "F1 a F6; M1 a M6; Mx1 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
-            "location": "Guimarães",
+            "prizeMoney": "5.000\u20ac",
+            "location": "Guimar\u00e3es",
             "partner": "Top-padel Braga",
-            "organization": "Top-padel Guimarães",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "organization": "Top-padel Guimar\u00e3es",
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 163
         },
         {
             "month": "OUTUBRO",
@@ -1948,20 +2111,22 @@
             "class": "5.000",
             "location": "Mafra",
             "organization": "My Padel Center",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 164
         },
         {
             "month": "OUTUBRO",
             "days": "24 a 27",
             "type": "CIR",
             "division": "ABS",
-            "name": "3º Open Padcenter",
+            "name": "3\u00ba Open Padcenter",
             "category": "F1 a F5; M1 a M5",
             "class": "2.000",
-            "prizeMoney": "2.000€",
+            "prizeMoney": "2.000\u20ac",
             "location": "Odivelas",
             "organization": "Padcenter Odivelas",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 165
         },
         {
             "month": "OUTUBRO",
@@ -1973,7 +2138,8 @@
             "class": "1.000",
             "location": "Quinta da Marinha",
             "organization": "Rackets Pro Quinta da Marinha",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 166
         },
         {
             "month": "OUTUBRO",
@@ -1986,7 +2152,8 @@
             "prizeMoney": "-",
             "location": "-",
             "organization": "FIP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 167
         },
         {
             "month": "NOVEMBRO",
@@ -1996,10 +2163,11 @@
             "name": "Azores Padel Open Veteranos",
             "category": "F: +35,+45, +55; M: +35, +45 +55",
             "class": "2.000",
-            "prizeMoney": "1.000€",
-            "location": "Açores",
+            "prizeMoney": "1.000\u20ac",
+            "location": "A\u00e7ores",
             "organization": "Azores Padel Club",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 168
         },
         {
             "month": "NOVEMBRO",
@@ -2009,10 +2177,11 @@
             "name": "Open Your Padel",
             "category": "F1 a F5; M1 a M5; Mx3 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Porto",
             "organization": "Your Padel",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 169
         },
         {
             "month": "NOVEMBRO",
@@ -2022,10 +2191,11 @@
             "name": "IX Open Ultra Padel Club",
             "category": "F1 a F4; M1 a M4;",
             "class": "2.000",
-            "prizeMoney": "2.000€",
+            "prizeMoney": "2.000\u20ac",
             "location": "Leiria",
             "organization": "Ultra Padel Club",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 170
         },
         {
             "month": "NOVEMBRO",
@@ -2035,11 +2205,12 @@
             "name": "Open Rackets Pro Saldanha",
             "category": "F1 a F4; M1 a M5; Mx3",
             "class": "2.000",
-            "prizeMoney": "2.000€",
+            "prizeMoney": "2.000\u20ac",
             "location": "Lisboa",
             "partner": "Rackets Pro Nacional Padel, EUL",
             "organization": "Rackets Pro Saldanha",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 171
         },
         {
             "month": "NOVEMBRO",
@@ -2048,7 +2219,8 @@
             "division": "VET e JOV",
             "name": "FINAL LIGA de CLUBES VETERANOS E JOVENS",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 172
         },
         {
             "month": "NOVEMBRO",
@@ -2058,11 +2230,12 @@
             "name": "Open Quinta de Monserrate Gaia",
             "category": "F1 a F6; M1 a M6; Mx1 a Mx5",
             "class": "5.000",
-            "prizeMoney": "5.000€",
+            "prizeMoney": "5.000\u20ac",
             "location": "Vila Nova de Gaia",
             "partner": "Quinta de Monserrate Indoor",
             "organization": "Quinta de Monserrate Gaia",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 173
         },
         {
             "month": "NOVEMBRO",
@@ -2071,7 +2244,8 @@
             "division": "ABS",
             "name": "FINAL LIGA de CLUBES ABSOLUTOS",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 174
         },
         {
             "month": "DEZEMBRO",
@@ -2081,7 +2255,8 @@
             "name": "Masters Final FPP Jovens",
             "category": "M&F Sub12, Sub14, Sub16, Sub18",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 175
         },
         {
             "month": "DEZEMBRO",
@@ -2091,7 +2266,8 @@
             "name": "Masters Final FPP Veteranos",
             "category": "M&F VET +35, +40, +45, +50, +55, +60",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 176
         },
         {
             "month": "DEZEMBRO",
@@ -2101,7 +2277,8 @@
             "name": "Social Masters",
             "category": "F3, F4, F5 e F6; M3, M4, M5 e M6",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 177
         },
         {
             "month": "DEZEMBRO",
@@ -2111,16 +2288,18 @@
             "name": "Masters Final FPP Absoluto",
             "category": "F1, F2; M1, M2",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 178
         },
         {
             "month": "DEZEMBRO",
             "days": "14",
             "type": "FPP",
             "division": "AG",
-            "name": "ASSEMBLEIA GERAL DE APROVAÇÃO DE ORÇAMENTO 2025",
+            "name": "ASSEMBLEIA GERAL DE APROVA\u00c7\u00c3O DE OR\u00c7AMENTO 2025",
             "organization": "MAG da FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 179
         },
         {
             "month": "DEZEMBRO",
@@ -2130,7 +2309,8 @@
             "name": "Best Padel Awards 2024",
             "partner": "a definir",
             "organization": "FPP",
-            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg"
+            "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
+            "id": 180
         }
     ]
 }
