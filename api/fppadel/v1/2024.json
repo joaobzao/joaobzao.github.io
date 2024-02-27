@@ -1851,14 +1851,6 @@
     },
     {
       "month": "SETEMBRO",
-      "days": "30/8 a 1",
-      "division": "",
-      "name": "*podem haver quaisquer provas",
-      "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
-      "id": 144
-    },
-    {
-      "month": "SETEMBRO",
       "days": "6 a 8",
       "type": "FOR",
       "division": "TR",
@@ -2082,14 +2074,6 @@
       "organization": "FPP",
       "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
       "id": 161
-    },
-    {
-      "month": "SETEMBRO",
-      "days": "20 a 22",
-      "division": "",
-      "name": "* podem haver provas de Veteranos e de Jovens",
-      "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
-      "id": 162
     },
     {
       "month": "SETEMBRO",
@@ -2370,14 +2354,6 @@
     },
     {
       "month": "NOVEMBRO",
-      "days": "1 a 3",
-      "division": "",
-      "name": "*Não se podem fazer provas Absolutos de Classe 10.000 ou superior",
-      "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
-      "id": 184
-    },
-    {
-      "month": "NOVEMBRO",
       "days": "31/10 a 3",
       "type": "CIR",
       "division": "VET",
@@ -2417,14 +2393,6 @@
       "organization": "Ultra Padel Club",
       "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
       "id": 187
-    },
-    {
-      "month": "NOVEMBRO",
-      "days": "8 a 10",
-      "division": "",
-      "name": "Última data de Provas  Veteranos e Jovens",
-      "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
-      "id": 188
     },
     {
       "month": "NOVEMBRO",
