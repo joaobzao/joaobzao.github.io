@@ -2369,6 +2369,7 @@
     {
       "month": "NOVEMBRO",
       "days": "1 a 3",
+      "division": "",
       "name": "*Não se podem fazer provas Absolutos de Classe 10.000 ou superior",
       "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
       "id": 184
@@ -2418,6 +2419,7 @@
     {
       "month": "NOVEMBRO",
       "days": "8 a 10",
+      "division": "",
       "name": "Última data de Provas  Veteranos e Jovens",
       "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
       "id": 188
