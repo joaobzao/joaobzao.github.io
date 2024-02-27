@@ -1852,6 +1852,7 @@
     {
       "month": "SETEMBRO",
       "days": "30/8 a 1",
+      "division": "",
       "name": "*podem haver quaisquer provas",
       "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
       "id": 144
@@ -2085,6 +2086,7 @@
     {
       "month": "SETEMBRO",
       "days": "20 a 22",
+      "division": "",
       "name": "* podem haver provas de Veteranos e de Jovens",
       "image": "https://tiesports.s3.amazonaws.com/clubs/46074/tournaments/covers/6b168b6a-b602-482a-8ee2-8233a10deca6.jpg",
       "id": 162
